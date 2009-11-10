@@ -1,3 +1,5 @@
+require 'capistrano/recipes/deploy/strategy/remote'
+
 module Capistrano
   module Deploy
     module Strategy
