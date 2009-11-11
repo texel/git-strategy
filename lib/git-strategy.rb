@@ -1,1 +1,1 @@
-require 'deploy/strategy/git'
+require 'capistrano/recipes/deploy/strategy/git'
